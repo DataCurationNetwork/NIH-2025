@@ -1,0 +1,9 @@
+---
+title: "Workshop Bibliography"
+bibliography: references.bib
+link-citations: true
+nocite: '@*'
+---
+
+::: {#refs}
+:::

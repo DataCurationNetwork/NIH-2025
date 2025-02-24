@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Specialized Data Curation, NIH 2025"
+  title: "Specialized Data Curation"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Schedule
+      - href: bibliography.qmd
+        text: Bibliography
 
 format:
   html:
