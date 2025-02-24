@@ -16,5 +16,5 @@ Simulation and Code Curriculum
 Development](https://www.zotero.org/groups/4927727/dcn_simulation_and_code_curriculum_development). 
 
 To update the bibliography page on the site:
-    - Use the 'Export Library' to update `references.bib`, which is a BibTex file.
-    - Rebuild the site, commit, and push.
+- Use the 'Export Library' to update `references.bib`, which is a BibTex file.
+- Rebuild the site, commit, and push.
