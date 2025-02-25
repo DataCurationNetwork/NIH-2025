@@ -45,9 +45,9 @@ Workshop schedules are still being developed and may change.
 | 10:45 AM | Simulation Data examples and exercises |
 | 12:00 PM | Lunch                                  |
 | 1:00 PM  | Introduce capstone and datasets        |
-| 2:15     | Break                                  |
-| 2:30     | Capstone work time                     |
-| 3:00     | Capstone share out                     |
+| 2:15 PM  | Break                                  |
+| 2:30 PM  | Capstone work time                     |
+| 3:00 PM  | Capstone share out                     |
 | 3:30 PM  | Recap/Wrap up                          |
 | 4:00 PM  | End                                    |
 
