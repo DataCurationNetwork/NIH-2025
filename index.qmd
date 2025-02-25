@@ -10,39 +10,40 @@ series of data curation workshops on specialized topics.
 
 ## Schedule
 
-### Code and Simulation 
+### Code & Simulation Data
 
-Date: May 12-13, 2025  
-Location: NIH Campus (Bethesda, MD)
+- Date: May 12-13, 2025  
+- Location: NIH Campus (Bethesda, MD)
+- Instructors: Seth Erickson and Greg Janée (Code); Wanda Marsolek and L. Wynholds (Simulation Data)
 
 #### Day 1: May 12th
 
-| Time            | Topic                                                                |
-| :-------------- | :------------------------------------------------------------------- |
-| 9:00 AM         | Welcome and DCN background and Icebreaker (w/breakfast)              |
-| 9:30 AM         | Computing platforms and programing languages \+ Demos                |
-| 10:30 AM        | Break                                                                |
-| 10:45 PM        | Dependencies \+ Hands-on exercise Documentation \+ Hands-on exercise |
-| 12:00 PM        | Lunch                                                                |
-| 1:00 PM         | Licensing and project structure \+ demos                             |
-| 2:30 PM         | Break                                                                |
-| 3:00 PM         | Simulation Data Introduction                                         |
-| 4:00 PM         | End of Day 1                                                         |
-| 6:00 \- 7:30 PM | Dine Arounds\!                                                       |
+| Time            | Topic                                                   |
+| :-------------- | :------------------------------------------------------ |
+| 9:00 AM         | Welcome and DCN background and Icebreaker (w/breakfast) |
+| 9:30 AM         | Computing platforms and programing languages            |
+| 10:30 AM        | Break                                                   |
+| 10:45 PM        | Dependencies and Documentation                          |
+| 12:00 PM        | Lunch                                                   |
+| 1:00 PM         | Licensing and project structure                         |
+| 2:30 PM         | Break                                                   |
+| 3:00 PM         | Simulation Data Introduction                            |
+| 4:00 PM         | End of Day 1                                            |
+| 6:00 \- 7:30 PM | Dine Arounds\!                                          |
 
 #### Day 2: May 13th
 
-| Time     | Topic                                                                                          |
-| :------- | :--------------------------------------------------------------------------------------------- |
-| 9:00 AM  | Welcome Back & Recap from Day 1                                                                |
-| 9:15 AM  | Simulation Data examples and exercises                                                         |
-| 10:30 AM | Break                                                                                          |
-| 10:45 AM | Simulation Data examples and exercises                                                         |
-| 12:00 PM | Lunch                                                                                          |
-| 1:00 PM  | Introduce capstone and datasets \[Potential time to work on Capstone Project with a team\]     |
-| 2:15     | Break                                                                                          |
-| 2:30     | Capstone work time                                                                             |
-| 3:00     | Capstone share out                                                                             |
-| 3:30 PM  | Recap/Wrap up                                                                                  |
-| 4:00 PM  | End |
+| Time     | Topic                                  |
+| :------- | :------------------------------------- |
+| 9:00 AM  | Welcome Back & Recap from Day 1        |
+| 9:15 AM  | Simulation Data examples and exercises |
+| 10:30 AM | Break                                  |
+| 10:45 AM | Simulation Data examples and exercises |
+| 12:00 PM | Lunch                                  |
+| 1:00 PM  | Introduce capstone and datasets        |
+| 2:15     | Break                                  |
+| 2:30     | Capstone work time                     |
+| 3:00     | Capstone share out                     |
+| 3:30 PM  | Recap/Wrap up                          |
+| 4:00 PM  | End                                    |
 
