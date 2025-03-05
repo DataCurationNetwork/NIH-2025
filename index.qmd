@@ -11,7 +11,7 @@ series of data curation workshops on specialized topics.
 ## Schedule
 
 ::: {.callout-warning}
-Workshop schedules are still being developed and may change.
+The workshop schedule is still being developed and may change!
 :::
 
 ### Code & Simulation Data
@@ -47,7 +47,6 @@ Workshop schedules are still being developed and may change.
 | 1:00 PM  | Introduce capstone and datasets        |
 | 2:15 PM  | Break                                  |
 | 2:30 PM  | Capstone work time                     |
-| 3:00 PM  | Capstone share out                     |
-| 3:30 PM  | Recap/Wrap up                          |
-| 4:00 PM  | End                                    |
+| 3:00 PM  | Capstone share out & Wrap up           |
+| 3:30 PM  | End                                    |
 
