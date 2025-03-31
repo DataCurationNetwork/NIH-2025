@@ -37,16 +37,15 @@ The workshop schedule is still being developed and may change!
 
 #### Day 2: May 13th
 
-| Time     | Topic                                  |
-| :------- | :------------------------------------- |
-| 9:00 AM  | Welcome Back & Recap from Day 1        |
-| 9:15 AM  | Simulation Data examples and exercises |
-| 10:30 AM | Break                                  |
-| 10:45 AM | Simulation Data examples and exercises |
-| 12:00 PM | Lunch                                  |
-| 1:00 PM  | Introduce capstone and datasets        |
-| 2:15 PM  | Break                                  |
-| 2:30 PM  | Capstone work time                     |
-| 3:00 PM  | Capstone share out & Wrap up           |
-| 3:30 PM  | End                                    |
+| Time     | Topic                                                  |
+| :------- | :----------------------------------------------------- |
+| 9:00 AM  | Welcome Back & Recap from Day 1                        |
+| 9:15 AM  | Simulation Data examples and activities                |
+| 10:30 AM | Break                                                  |
+| 10:45 AM | Simulation Data examples and activities                |
+| 12:00 PM | Lunch                                                  |
+| 1:00 PM  | Introduce capstone and datasets; brainstrom with teams |
+| 2:00 PM  | Capstone share out                                     |
+| 2:30 PM  | Workshop wrap up                                       |
+| 3:00 PM  | End                                                    |
 
