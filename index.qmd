@@ -8,17 +8,34 @@ Areas](https://datacurationnetwork.org/expanding-curation-training/)”, the Dat
 Curation Network is partnering with the National Institutes of Health to offer a
 series of data curation workshops on specialized topics.
 
-## Schedule
+## Code & Simulation Data
+
+
+The workshop will be held __May 12-13__, 2025 at the NIH Campus in Bethesda, MD.
+
+### Instructors
+
+- Seth Erickson (University of California, Santa Barbara)
+- Greg Janée (University of California, Santa Barbara)
+- Wanda Marsolek (University of Minnesota)
+- L. Wynholds (University of Utah)
+
+
+### Resources
+
+::: {.callout-note}
+Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
+:::
+
+- Slides (to come)
+- Virtual Workspace (to come)
+
+### Schedule
 
 ::: {.callout-warning}
 The workshop schedule is still being developed and may change!
 :::
 
-### Code & Simulation Data
-
-- Date: May 12-13, 2025  
-- Location: NIH Campus (Bethesda, MD)
-- Instructors: Seth Erickson and Greg Janée (Code); Wanda Marsolek and L. Wynholds (Simulation Data)
 
 #### Day 1: May 12th
 
@@ -44,7 +61,7 @@ The workshop schedule is still being developed and may change!
 | 10:30 AM | Break                                                  |
 | 10:45 AM | Simulation Data examples and activities                |
 | 12:00 PM | Lunch                                                  |
-| 1:00 PM  | Introduce capstone and datasets; brainstrom with teams |
+| 1:00 PM  | Introduce capstone and datasets; brainstorm with teams |
 | 2:00 PM  | Capstone share out                                     |
 | 2:30 PM  | Workshop wrap up                                       |
 | 3:00 PM  | End                                                    |
