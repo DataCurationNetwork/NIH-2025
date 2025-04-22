@@ -1,0 +1,43 @@
+---
+title: "Workshop Workspace"
+---
+
+::: {.callout-note}
+Workshop participants should have received an email with login details for 
+their workspace. The instructions below assume you are logged in to the 
+website as described in the email
+:::
+
+Your workspace is a virtual machine preloaded with the software and datasets
+we will use in the workshop. After logging in, you should see a single running
+workspace. Click the workspace on the list to use it.
+
+![Workspace list](images/workspace-list.png)
+
+On the workspace page, you will see several buttons: "File Browser", "VS Code
+Web", and "Terminal".
+
+![Workspace page](images/workspace.png)
+
+During the workshop, we will mostly use VS Code: this is a browser-based 
+variant of the popular desktop IDE. Clicking "VS Code web" should open a new
+browser window running the application.
+
+![VS Code startup](images/workspace-vscode.png)
+
+When you first start, VS Code it will ask if "you trust the authors of the 
+files in this folder?" (Don't worry! You won't be running any code on your 
+personal computer-- only on the workspace VM). Click "Yes, I trust the authors."
+
+On the left-hand side of the VS Code window you should see several folders with
+the datasets we will use in the workshop:
+
+- `code-Adeodu_2024`
+- `code-Azzolin_2023`
+- `code-Lu_2020`
+- `sim-Do_2020`
+- `sim-Munoz_2020`
+- `sim-Yang_2019`
+
+If you can see these folder, then you're all set! If you can't, please email
+the conference organizers (just reply to the email with your login details).

@@ -28,7 +28,7 @@ Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacur
 :::
 
 - Slides (to come)
-- Virtual Workspace (to come)
+- [Virtual Workspace](workspace.html)
 
 ### Schedule
 
