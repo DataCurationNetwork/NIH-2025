@@ -5,7 +5,7 @@ title: "Workshop Workspace"
 ::: {.callout-note}
 Workshop participants should have received an email with login details for 
 their workspace. The instructions below assume you are logged in to the 
-website as described in the email
+website as described in the email.
 :::
 
 Your workspace is a virtual machine preloaded with the software and datasets
@@ -28,6 +28,8 @@ browser window running the application.
 When you first start, VS Code it will ask if "you trust the authors of the 
 files in this folder?" (Don't worry! You won't be running any code on your 
 personal computer-- only on the workspace VM). Click "Yes, I trust the authors."
+
+![VS Code (empty)](images/workspace-vscode2.png)
 
 On the left-hand side of the VS Code window you should see several folders with
 the datasets we will use in the workshop:
