@@ -11,12 +11,12 @@ series of data curation workshops on specialized topics.
 ## Scientific Images and Geographic Information Systems (GIS)
 
 
-The workshop will be held __July 14-15__, 2025 at the NIH Campus in Bethesda, MD.
+The workshop will be held __July 14-15__, 2025 in Building 10 at the NIH Campus in Bethesda, MD.
 
 ### Instructors
 
 - Neggin Keshavarazian (Princeton University)
-- Amy Schuler (\Cary Institute of Ecosystem Studies)
+- Amy Schuler (Cary Institute of Ecosystem Studies)
 - Mariah Kenney (Carnegie Mellon University)
 - Kelly Grove (Florida State University)
 - Tim Norris (University of Miami)
@@ -42,7 +42,7 @@ The workshop schedule is still being developed and may change!
 
 | Time            | Topic                                                   |
 | :-------------- | :------------------------------------------------------ |
-| 9:00 AM         | Welcome and DCN background and Icebreaker (w/breakfast) |
+| 9:00 AM         | Welcome and DCN background and Icebreaker               |
 | 9:30 AM         | Introduction to GIS and geospatial Data Types           |
 | 10:30 AM        | Break                                                   |
 | 10:45 PM        | GIS Data Types (cont) and Ethical Considerations        |
@@ -59,7 +59,7 @@ The workshop schedule is still being developed and may change!
 
 | Time     | Topic                                                  |
 | :------- | :----------------------------------------------------- |
-| 9:00 AM  | Welcome Back & Icebreaker (w/breakfast)                |
+| 9:00 AM  | Welcome Back & Icebreaker                              |
 | 9:15 AM  | Introduction to Sci Images and Software                |
 | 10:30 AM | Break                                                  |
 | 10:45 AM | Image Metadata and Transformation                      |
