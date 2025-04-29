@@ -1,0 +1,71 @@
+---
+title: "Specialized Data Curation Workshops @ NIH"
+---
+
+As part of the continuation of the IMLS funded project “[Developing Specialized
+Data Curation Training to Address Needed Expertise in Focused
+Areas](https://datacurationnetwork.org/expanding-curation-training/)”, the Data
+Curation Network is partnering with the National Institutes of Health to offer a
+series of data curation workshops on specialized topics.
+
+## Scientific Images and Geographic Information Systems (GIS)
+
+
+The workshop will be held __July 14-15__, 2025 at the NIH Campus in Bethesda, MD.
+
+### Instructors
+
+- Neggin Keshavarazian (Princeton University)
+- Amy Schuler (\Cary Institute of Ecosystem Studies)
+- Mariah Kenney (Carnegie Mellon University)
+- Kelly Grove (Florida State University)
+- Tim Norris (University of Miami)
+
+
+### Resources
+
+::: {.callout-note}
+Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
+:::
+
+- Pre-workshop preparation (to come)
+- Slides (to come)
+
+### Schedule
+
+::: {.callout-warning}
+The workshop schedule is still being developed and may change!
+:::
+
+
+#### Day 1: July 14th
+
+| Time            | Topic                                                   |
+| :-------------- | :------------------------------------------------------ |
+| 9:00 AM         | Welcome and DCN background and Icebreaker (w/breakfast) |
+| 9:30 AM         | Introduction to GIS and geospatial Data Types           |
+| 10:30 AM        | Break                                                   |
+| 10:45 PM        | GIS Data Types (cont) and Ethical Considerations        |
+| 12:00 PM        | Lunch                                                   |
+| 1:00 PM         | GIS Transformations                                     |
+| 1:45 PM         | Break                                                   |
+| 2:00 PM         | GIS Metadata                                            |
+| 2:45 PM         | Break                                                   |
+| 3:00 PM         | GIS Metadata (cont) and Wrap Up                         |
+| 4:00 PM         | End of Day 1                                            |
+| 6:00 \- 7:30 PM | Dine Arounds\!                                          |
+
+#### Day 2: July 15th
+
+| Time     | Topic                                                  |
+| :------- | :----------------------------------------------------- |
+| 9:00 AM  | Welcome Back & Icebreaker (w/breakfast)                |
+| 9:15 AM  | Introduction to Sci Images and Software                |
+| 10:30 AM | Break                                                  |
+| 10:45 AM | Image Metadata and Transformation                      |
+| 12:00 PM | Lunch                                                  |
+| 1:00 PM  | Introduce capstone and datasets; brainstorm with teams |
+| 2:15 PM  | Break                                                  |
+| 2:30 PM  | Capstone share out and Wrap Up                         |
+| 3:00 PM  | End                                                    |
+
