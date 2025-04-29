@@ -5,5 +5,29 @@ link-citations: true
 nocite: '@*'
 ---
 
+
+### Code & Simulation Datasets 
+
+The following resources are used in workshop examples or exercises.
+
+<div class="hanging-indent csl-entry">
+Adeodu, O., Gee, M., Mahmoudi, B., Vadigepalli, R., & Kothare, M. 2024. "Simulation of the short term impact of atrial fibrillation on hemodynamic variables (Version 1) [Dataset]". SPARC Portal. DOI: [https://doi.org/10.26275/B0LJ-XSTO](https://doi.org/10.26275/B0LJ-XSTO)
+</div>
+
+<div class="hanging-indent csl-entry">
+Azzolin, L., Eichenlaub, M., Nagel, C., Nairn, D., Sánchez, J., Unger, L., Dössel, O., Jadidi, A., & Loewe, A. 2023. "AugmentA: Patient-specific Augmented Atrial model Generation Tool". Computerized Medical Imaging and Graphics, 108, 102265. 
+</div>
+
+<div class="hanging-indent csl-entry">
+Lu, Z., & Ku, Y. 2020. "NeuroRA: A Python toolbox of representational analysis from multi-modal neural data. Frontiers in Neuroinformatics". 14:563669. DOI: [https://doi.org/10.3389/fninf.2020.563669](https://doi.org/10.3389/fninf.2020.563669)
+</div>
+
+
+<div class="hanging-indent csl-entry">
+Matúš Medo, Charlotte K. Y. Ng, Michaela Medová. 2024. "A comprehensive comparison of tools for fitting mutational signatures". Nature Communications 15, 9467. URL: [https://www.nature.com/articles/s41467-024-53711-6](https://www.nature.com/articles/s41467-024-53711-6)
+</div>
+
+
+### Other Resources
 ::: {#refs}
 :::
