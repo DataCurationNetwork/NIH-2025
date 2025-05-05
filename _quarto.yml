@@ -6,10 +6,12 @@ website:
   title: "Specialized Data Curation"
   navbar:
     left:
-      - href: index.qmd
-        text: Schedule
-      - href: bibliography.qmd
-        text: Bibliography
+      - text: Workshops
+        menu: 
+        - text: Code & Simulation Data
+          href: codesim
+        - text: Scientific Images & GIS
+          href: scimgis
 
 format:
   html:

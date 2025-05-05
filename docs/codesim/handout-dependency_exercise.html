@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Specialized Data Curation Workshops @ NIH – Specialized Data Curation</title>
+<title>handout-dependency_exercise – Specialized Data Curation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,7 +68,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Specialized Data Curation</span>
     </a>
   </div>
@@ -94,11 +94,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-workshops">    
         <li>
-    <a class="dropdown-item" href="./codesim">
+    <a class="dropdown-item" href="../codesim">
  <span class="dropdown-text">Code &amp; Simulation Data</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./scimgis">
+    <a class="dropdown-item" href="../scimgis">
  <span class="dropdown-text">Scientific Images &amp; GIS</span></a>
   </li>  
     </ul>
@@ -119,41 +119,538 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#workshop-dates" id="toc-workshop-dates" class="nav-link active" data-scroll-target="#workshop-dates">Workshop Dates</a></li>
+  <li><a href="#python-dependency-challenge" id="toc-python-dependency-challenge" class="nav-link active" data-scroll-target="#python-dependency-challenge">Python Dependency Challenge</a>
+  <ul class="collapse">
+  <li><a href="#project-simulation-of-the-short-term-impact-of-atrial-fibrillation-on-hemodynamic-variables" id="toc-project-simulation-of-the-short-term-impact-of-atrial-fibrillation-on-hemodynamic-variables" class="nav-link" data-scroll-target="#project-simulation-of-the-short-term-impact-of-atrial-fibrillation-on-hemodynamic-variables">Project: “Simulation of the short term impact of atrial fibrillation on hemodynamic variables”</a></li>
+  <li><a href="#project-augmenta" id="toc-project-augmenta" class="nav-link" data-scroll-target="#project-augmenta">Project: “AugmentA”</a></li>
+  <li><a href="#project-neurora" id="toc-project-neurora" class="nav-link" data-scroll-target="#project-neurora">Project: “NeuroRA”</a></li>
+  <li><a href="#project-sigfittest" id="toc-project-sigfittest" class="nav-link" data-scroll-target="#project-sigfittest">Project: “SigFitTest”</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Specialized Data Curation Workshops @ NIH</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>As part of the continuation of the IMLS funded project “<a href="https://datacurationnetwork.org/expanding-curation-training/">Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas</a>,” the Data Curation Network is partnering with the National Institutes of Health to offer a series of data curation workshops on specialized topics.</p>
-<section id="workshop-dates" class="level2">
-<h2 class="anchored" data-anchor-id="workshop-dates">Workshop Dates</h2>
+<section id="python-dependency-challenge" class="level1">
+<h1>Python Dependency Challenge</h1>
+<p>Participants are divided into groups of no less than four people. Groups will work together to fill-in the missing dependencies for <strong>four</strong> code projects.</p>
+<p>For each project, you are given:</p>
 <ul>
-<li><a href="codesim"><strong>Code &amp; Simulation Data</strong></a>, May 12-13, 2025</li>
-<li><a href="scimgis"><strong>Scientific Images &amp; Geographic Information Systems</strong></a>, July 14-15, 2025</li>
+<li>Project code, available on the workspace<br>
+</li>
+<li>A version of python that you can assume works for the project.<br>
+</li>
+<li>An <em>incomplete</em> list of the project’s dependencies.</li>
 </ul>
+<p>The missing dependencies for all the projects are combined in the list below. Your task is to associate the package versions of the list with the appropriate project, and to complete the project’s list of dependencies. You should explore the project code and documentation to make your determination. You aren’t expected to run the code.</p>
+<p>When reviewing the code, pay close attention to files where dependencies are likely to mentioned:</p>
+<ul>
+<li>READMEs<br>
+</li>
+<li>requirements.txt<br>
+</li>
+<li>setup.py<br>
+</li>
+<li>pyproject.toml</li>
+</ul>
+<p>Hint: you’ll note that all four projects use “numpy” – you need to decide which version works best for each project. You will most likely need to refer to the numpy release noted to check the python versions supported by each numpy version: <a href="https://numpy.org/devdocs/release.html">https://numpy.org/devdocs/release.html</a></p>
+<p>The Missing Dependencies:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Package name</th>
+<th>version</th>
+<th>Project name</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>matplotlib</td>
+<td>3.10.1</td>
+<td>???</td>
+</tr>
+<tr class="even">
+<td>nibalabel</td>
+<td>5.3.2</td>
+<td>???</td>
+</tr>
+<tr class="odd">
+<td>numpy</td>
+<td>1.24.4</td>
+<td>???</td>
+</tr>
+<tr class="even">
+<td>numpy</td>
+<td>2.0.2</td>
+<td>???</td>
+</tr>
+<tr class="odd">
+<td>numpy</td>
+<td>2.2.4</td>
+<td>???</td>
+</tr>
+<tr class="even">
+<td>numpy</td>
+<td>2.2.5</td>
+<td>???</td>
+</tr>
+<tr class="odd">
+<td>pandas</td>
+<td>2.2.3</td>
+<td>???</td>
+</tr>
+<tr class="even">
+<td>pymeshfix</td>
+<td>0.16.3</td>
+<td>???</td>
+</tr>
+<tr class="odd">
+<td>scipy</td>
+<td>1.13.1</td>
+<td>???</td>
+</tr>
+<tr class="even">
+<td>scipy</td>
+<td>1.15.2</td>
+<td>???</td>
+</tr>
+<tr class="odd">
+<td>scikit-learn</td>
+<td>1.2.2</td>
+<td>???</td>
+</tr>
+</tbody>
+</table>
+<section id="project-simulation-of-the-short-term-impact-of-atrial-fibrillation-on-hemodynamic-variables" class="level2">
+<h2 class="anchored" data-anchor-id="project-simulation-of-the-short-term-impact-of-atrial-fibrillation-on-hemodynamic-variables">Project: “Simulation of the short term impact of atrial fibrillation on hemodynamic variables”</h2>
+<p>Workspace folder: <strong>code-Adeodu_2024</strong></p>
+<p>Full Citation:<br>
+Adeodu, O., Gee, M., Mahmoudi, B., Vadigepalli, R., &amp; Kothare, M. (2024). Simulation of the short term impact of atrial fibrillation on hemodynamic variables (Version 1) [Dataset]. SPARC Portal. <a href="https://doi.org/10.26275/B0LJ-XSTO">https://doi.org/10.26275/B0LJ-XSTO</a></p>
+<p>Identify the missing dependencies:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">python</th>
+<th style="text-align: left;">3.9</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">numpy</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="project-augmenta" class="level2">
+<h2 class="anchored" data-anchor-id="project-augmenta">Project: “AugmentA”</h2>
+<p>Workspace folder: <strong>code-Azzolin_2023</strong></p>
+<p>Full Citation:<br>
+Azzolin, L., Eichenlaub, M., Nagel, C., Nairn, D., Sánchez, J., Unger, L., Dössel, O., Jadidi, A., &amp; Loewe, A. (2023). AugmentA: Patient-specific Augmented Atrial model Generation Tool. Computerized Medical Imaging and Graphics, 108, 102265. <a href="https://doi.org/10.1016/j.compmedimag.2023.102265">https://doi.org/10.1016/j.compmedimag.2023.102265</a></p>
+<p>Code Repository: <a href="https://github.com/KIT-IBT/AugmentA">https://github.com/KIT-IBT/AugmentA</a></p>
+<p>Identify the missing dependencies:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">python</th>
+<th style="text-align: left;">3.8</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">certifi</td>
+<td style="text-align: left;">2025.1.31</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">charset-normalizer</td>
+<td style="text-align: left;">3.4.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">contourpy</td>
+<td style="text-align: left;">1.1.1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">cycler</td>
+<td style="text-align: left;">0.12.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">fonttools</td>
+<td style="text-align: left;">4.57.0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">h5py</td>
+<td style="text-align: left;">3.7.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">idna</td>
+<td style="text-align: left;">3.10</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">importlib-resources</td>
+<td style="text-align: left;">6.4.5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">joblib</td>
+<td style="text-align: left;">1.4.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">kiwisolver</td>
+<td style="text-align: left;">1.4.7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">markdown-it-py</td>
+<td style="text-align: left;">3.0.0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">matplotlib</td>
+<td style="text-align: left;">3.7.5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">mdurl</td>
+<td style="text-align: left;">0.1.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">meshio</td>
+<td style="text-align: left;">5.3.55</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">numpy</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">packaging</td>
+<td style="text-align: left;">24.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pandas</td>
+<td style="text-align: left;">1.5.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">pillow</td>
+<td style="text-align: left;">10.4.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">platformdirs</td>
+<td style="text-align: left;">4.3.6</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">pooch</td>
+<td style="text-align: left;">1.8.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pygments</td>
+<td style="text-align: left;">2.19.1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">pymeshlab</td>
+<td style="text-align: left;">2022.2.post4</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pyparsing</td>
+<td style="text-align: left;">3.1.4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">python-dateutil</td>
+<td style="text-align: left;">2.9.0.post0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pytz</td>
+<td style="text-align: left;">2025.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">pyvista</td>
+<td style="text-align: left;">0.44.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">requests</td>
+<td style="text-align: left;">2.32.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">rich</td>
+<td style="text-align: left;">14.0.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">scipy</td>
+<td style="text-align: left;">1.10.1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">scooby</td>
+<td style="text-align: left;">0.10.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">six</td>
+<td style="text-align: left;">1.17.0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">threadpoolctl</td>
+<td style="text-align: left;">3.5.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">transformations</td>
+<td style="text-align: left;">2022.9.26</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">typing-extensions</td>
+<td style="text-align: left;">4.13.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">urllib3</td>
+<td style="text-align: left;">2.2.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">vtk</td>
+<td style="text-align: left;">9.3.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">zipp</td>
+<td style="text-align: left;">3.20.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="project-neurora" class="level2">
+<h2 class="anchored" data-anchor-id="project-neurora">Project: “NeuroRA”</h2>
+<p>Workspace folder: <strong>code-Lu_2020</strong></p>
+<p>Full Citation:<br>
+Lu, Z., &amp; Ku, Y. (2020). NeuroRA: A Python toolbox of representational analysis from multi-modal neural data. Frontiers in Neuroinformatics. 14:563669. DOI: <a href="https://doi.org/10.3389/fninf.2020.563669">https://doi.org/10.3389/fninf.2020.563669</a></p>
+<p>Code repository: <a href="https://github.com/ZitongLu1996/NeuroRA">https://github.com/ZitongLu1996/NeuroRA</a></p>
+<p>Identify the missing dependency information</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">python</th>
+<th style="text-align: left;">3.10</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">certifi</td>
+<td style="text-align: left;">2025.1.31</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">charset-normalizer</td>
+<td style="text-align: left;">3.4.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">contourpy</td>
+<td style="text-align: left;">1.3.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">cycler</td>
+<td style="text-align: left;">0.12.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">decorator</td>
+<td style="text-align: left;">5.2.1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">fonttools</td>
+<td style="text-align: left;">4.57.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">idna</td>
+<td style="text-align: left;">3.1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">imageio</td>
+<td style="text-align: left;">2.37.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">importlib-resources</td>
+<td style="text-align: left;">6.5.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">jinja2</td>
+<td style="text-align: left;">3.1.6</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">joblib</td>
+<td style="text-align: left;">1.4.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">kiwisolver</td>
+<td style="text-align: left;">1.4.8</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">lazy-loader</td>
+<td style="text-align: left;">0.4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">lxml</td>
+<td style="text-align: left;">5.4.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">markupsafe</td>
+<td style="text-align: left;">3.0.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">mne</td>
+<td style="text-align: left;">1.9.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">networkx</td>
+<td style="text-align: left;">3.4.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">nilearn</td>
+<td style="text-align: left;">0.11.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">numpy</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">packaging</td>
+<td style="text-align: left;">25</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pandas</td>
+<td style="text-align: left;">2.2.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">pillow</td>
+<td style="text-align: left;">11.2.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">platformdirs</td>
+<td style="text-align: left;">4.3.7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">pooch</td>
+<td style="text-align: left;">1.8.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pyparsing</td>
+<td style="text-align: left;">3.2.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">python-dateutil</td>
+<td style="text-align: left;">2.9.0.post0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pytz</td>
+<td style="text-align: left;">2025.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">requests</td>
+<td style="text-align: left;">2.32.3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">scikit-image</td>
+<td style="text-align: left;">0.25.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">scikit-learn</td>
+<td style="text-align: left;">1.6.1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">scipy</td>
+<td style="text-align: left;">1.15.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">six</td>
+<td style="text-align: left;">1.17.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">threadpoolctl</td>
+<td style="text-align: left;">3.6.0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">tifffile</td>
+<td style="text-align: left;">2025.3.30</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">tqdm</td>
+<td style="text-align: left;">4.67.1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">typing-extensions</td>
+<td style="text-align: left;">4.13.2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">tzdata</td>
+<td style="text-align: left;">2025.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">urllib3</td>
+<td style="text-align: left;">2.4.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="project-sigfittest" class="level2">
+<h2 class="anchored" data-anchor-id="project-sigfittest">Project: “SigFitTest”</h2>
+<p>Workspace folder: <strong>code-Medo_2024</strong></p>
+<p>Full Citation:<br>
+Matúš Medo, Charlotte K. Y. Ng, Michaela Medová, A comprehensive comparison of tools for fitting mutational signatures, Nature Communications 15, 9467 (2024). URL: <a href="https://www.nature.com/articles/s41467-024-53711-6">https://www.nature.com/articles/s41467-024-53711-6</a></p>
+<p>Code Repository: <a href="https://github.com/8medom/SigFitTest">https://github.com/8medom/SigFitTest</a></p>
+<p>Note: This project also includes R code, which you ignore the purposes of the exercise.</p>
+<p>Identify the missing dependencies:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">python</th>
+<th style="text-align: left;">3.12</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">numpy</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">python-dateutil</td>
+<td style="text-align: left;">2.9.0.post0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">pytz</td>
+<td style="text-align: left;">2025.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">six</td>
+<td style="text-align: left;">1.17.0</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">tzdata</td>
+<td style="text-align: left;">2025.2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">???</td>
+<td style="text-align: left;">???</td>
+</tr>
+</tbody>
+</table>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

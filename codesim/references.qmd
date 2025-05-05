@@ -1,5 +1,5 @@
 ---
-title: "Workshop Bibliography"
+title: "Code & Simulation Data References"
 bibliography: references.bib
 link-citations: true
 nocite: '@*'

@@ -1,15 +1,6 @@
 ---
-title: "Specialized Data Curation Workshops @ NIH"
+title: "Scientific Images & Geographic Information Systems (GIS)"
 ---
-
-As part of the continuation of the IMLS funded project “[Developing Specialized
-Data Curation Training to Address Needed Expertise in Focused
-Areas](https://datacurationnetwork.org/expanding-curation-training/)”, the Data
-Curation Network is partnering with the National Institutes of Health to offer a
-series of data curation workshops on specialized topics.
-
-## Scientific Images and Geographic Information Systems (GIS)
-
 
 The workshop will be held __July 14-15__, 2025 in Building 10 at the NIH Campus in Bethesda, MD.
 
