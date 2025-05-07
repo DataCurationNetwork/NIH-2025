@@ -32,18 +32,18 @@ The workshop schedule is still being developed and may change!
 
 #### Day 1: May 12th
 
-| Time            | Topic                                                   |
-| :-------------- | :------------------------------------------------------ |
-| 9:00 AM         | Welcome and DCN background and Icebreaker (w/breakfast) |
-| 9:30 AM         | Computing platforms and programing languages            |
-| 10:30 AM        | Break                                                   |
-| 10:45 PM        | Dependencies and Documentation                          |
-| 12:00 PM        | Lunch                                                   |
-| 1:00 PM         | Licensing and project structure                         |
-| 2:30 PM         | Break                                                   |
-| 3:00 PM         | Simulation Data Introduction                            |
-| 4:00 PM         | End of Day 1                                            |
-| 6:00 \- 7:30 PM | Dine Arounds\!                                          |
+| Time     | Topic                                        |
+| :------- | :------------------------------------------- |
+| 9:00 AM  | Welcome and DCN background and Icebreaker    |
+| 9:30 AM  | Computing platforms and programing languages |
+| 10:30 AM | Break                                        |
+| 10:45 PM | Dependencies and Documentation               |
+| 12:00 PM | Lunch                                        |
+| 1:00 PM  | Licensing and project structure              |
+| 2:30 PM  | Break                                        |
+| 3:00 PM  | Simulation Data Introduction                 |
+| 4:00 PM  | End of Day 1                                 |
+| 6:00 PM  | Dine Arounds\!                               |
 
 #### Day 2: May 13th
 
