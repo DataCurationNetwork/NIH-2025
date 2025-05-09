@@ -15,48 +15,47 @@ The workshop will be held __May 12-13__, 2025 in Building 49 at the NIH Campus i
 ### Resources
 
 ::: {.callout-note}
-Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
+Please review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
 :::
 
 - [Code Slides](https://docs.google.com/presentation/d/1bJyL7h_k45pF8H-eJF5oEvGXlh4LpcDJ9A9VK8mk_KY/edit?usp=sharing)
-- Simulation Slides (to come)
-- [Virtual Workspace](workspace.qmd)
+- [Simulation Slides](https://docs.google.com/presentation/d/1Msi5jnRfiMQXHbtkgxLoZG6ilmMymHCJ_NFCnl9vhkw/edit#slide=id.g250b1be951a_0_0)
+- [Virtual Workspace Instructions](workspace.qmd)
+- [Capstone Google Drive Folder](https://drive.google.com/drive/folders/1UzH6TllPLEKafA1wqgQTHoqE4CJI8dyc) 
 - [References](references.qmd)
 - [NIH Campus Map](https://ors.od.nih.gov/maps/Pages/NIH-Visitor-Map.aspx)
 
 ### Schedule
-
-::: {.callout-warning}
-The workshop schedule is still being developed and may change!
-:::
-
 
 #### Day 1: May 12th
 
 | Time     | Topic                                        |
 | :------- | :------------------------------------------- |
 | 9:00 AM  | Welcome and DCN background and Icebreaker    |
-| 9:30 AM  | Introduction: Curating Code                  |
+| 9:30 AM  | Code: Introduction and Overview              |
 | 9:45 AM  | Computing platforms and programing languages |
 | 10:45 AM | Break                                        |
 | 11:00 PM | Dependencies and Documentation               |
 | 12:00 PM | Lunch                                        |
 | 1:00 PM  | Licensing and project structure              |
-| 2:30 PM  | Break                                        |
-| 3:00 PM  | Simulation Data Introduction                 |
+| 2:30 PM  | Capstone Introduction                        |
+| 2:45 PM  | Break                                        |
+| 3:00 PM  | Simulation Data Introduction and Overview    |
 | 4:00 PM  | End of Day 1                                 |
 | 6:00 PM  | Dine Arounds\!                               |
 
 #### Day 2: May 13th
 
-| Time     | Topic                                                  |
-| :------- | :----------------------------------------------------- |
-| 9:00 AM  | Welcome Back & Recap from Day 1                        |
-| 9:15 AM  | Simulation Data examples and activities                |
-| 10:30 AM | Break                                                  |
-| 10:45 AM | Simulation Data examples and activities                |
-| 12:00 PM | Lunch                                                  |
-| 1:00 PM  | Introduce capstone and datasets; brainstorm with teams |
-| 2:00 PM  | Capstone share out                                     |
-| 2:30 PM  | Workshop wrap up                                       |
-| 3:00 PM  | End                                                    |
+| Time     | Topic                                            |
+| :------- | :----------------------------------------------- |
+| 9:00 AM  | Welcome Back & Recap from Day 1                  |
+| 9:15 AM  | Introducing simulation datasets and key features |
+| 9:50 AM  | Break                                            |
+| 10:05 AM | Metadata and ethical considerations              |
+| 10:50 AM | Break                                            |
+| 11:00 AM | Data appraisal and transformations               |
+| 12:00 PM | Lunch                                            |
+| 1:00 PM  | Capstone work time: brainstorm with teams        |
+| 2:00 PM  | Capstone share out                               |
+| 2:30 PM  | Workshop wrap up                                 |
+| 3:00 PM  | End                                              |
