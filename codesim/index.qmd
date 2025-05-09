@@ -18,7 +18,8 @@ The workshop will be held __May 12-13__, 2025 in Building 49 at the NIH Campus i
 Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
 :::
 
-- Slides (to come)
+- [Code Slides](https://docs.google.com/presentation/d/1bJyL7h_k45pF8H-eJF5oEvGXlh4LpcDJ9A9VK8mk_KY/edit?usp=sharing)
+- Simulation Slides (to come)
 - [Virtual Workspace](workspace.qmd)
 - [References](references.qmd)
 - [NIH Campus Map](https://ors.od.nih.gov/maps/Pages/NIH-Visitor-Map.aspx)
@@ -35,9 +36,10 @@ The workshop schedule is still being developed and may change!
 | Time     | Topic                                        |
 | :------- | :------------------------------------------- |
 | 9:00 AM  | Welcome and DCN background and Icebreaker    |
-| 9:30 AM  | Computing platforms and programing languages |
-| 10:30 AM | Break                                        |
-| 10:45 PM | Dependencies and Documentation               |
+| 9:30 AM  | Introduction: Curating Code                  |
+| 9:45 AM  | Computing platforms and programing languages |
+| 10:45 AM | Break                                        |
+| 11:00 PM | Dependencies and Documentation               |
 | 12:00 PM | Lunch                                        |
 | 1:00 PM  | Licensing and project structure              |
 | 2:30 PM  | Break                                        |
@@ -58,4 +60,3 @@ The workshop schedule is still being developed and may change!
 | 2:00 PM  | Capstone share out                                     |
 | 2:30 PM  | Workshop wrap up                                       |
 | 3:00 PM  | End                                                    |
-
