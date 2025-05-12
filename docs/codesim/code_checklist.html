@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Code &amp; Simulation Data – Specialized Data Curation</title>
+<title>code_checklist – Specialized Data Curation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -119,191 +119,58 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#instructors" id="toc-instructors" class="nav-link active" data-scroll-target="#instructors">Instructors</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
-  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">Schedule</a></li>
+  <li><a href="#code-curation-checklist" id="toc-code-curation-checklist" class="nav-link active" data-scroll-target="#code-curation-checklist">Code Curation Checklist</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Code &amp; Simulation Data</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>The workshop will be held <strong>May 12-13</strong>, 2025 in Building 49 at the NIH Campus in Bethesda, MD.</p>
-<section id="instructors" class="level3">
-<h3 class="anchored" data-anchor-id="instructors">Instructors</h3>
+<section id="code-curation-checklist" class="level1">
+<h1>Code Curation Checklist</h1>
 <ul>
-<li>Seth Erickson (University of California, Santa Barbara)</li>
-<li>Greg Janée (University of California, Santa Barbara)</li>
-<li>Wanda Marsolek (University of Minnesota)</li>
-<li>L. Wynholds (University of Utah)</li>
-</ul>
-</section>
-<section id="resources" class="level3">
-<h3 class="anchored" data-anchor-id="resources">Resources</h3>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Please review <a href="https://datacurationnetwork.org/outputs/workflows/">DCN’s CURATE(D) workflow</a> before the first session.</p>
-</div>
-</div>
+<li><p>Are source code files named appropriately, with an extension that matches the programming language?</p></li>
+<li><p>Are hardware and software dependencies adequately documented?</p>
 <ul>
-<li><a href="https://docs.google.com/presentation/d/1bJyL7h_k45pF8H-eJF5oEvGXlh4LpcDJ9A9VK8mk_KY/edit?usp=sharing">Code Slides</a></li>
-<li><a href="https://docs.google.com/presentation/d/1Msi5jnRfiMQXHbtkgxLoZG6ilmMymHCJ_NFCnl9vhkw/edit#slide=id.g250b1be951a_0_0">Simulation Slides</a></li>
-<li><a href="../codesim/workspace.html">Virtual Workspace Instructions</a></li>
-<li><a href="https://drive.google.com/drive/folders/1UzH6TllPLEKafA1wqgQTHoqE4CJI8dyc">Capstone Google Drive Folder</a></li>
-<li><a href="../codesim/references.html">References</a></li>
-<li><a href="https://ors.od.nih.gov/maps/Pages/NIH-Visitor-Map.aspx">NIH Campus Map</a></li>
-<li><a href="../codesim/code_checklist.html">Code Checklist</a></li>
+<li>The hardware, operating system, and package versions used to run the code should be documented.</li>
+</ul></li>
+<li><p>Does the documentation describe how to use the code?</p>
+<ul>
+<li>The README should give an example of how to use the code, including expected outputs or behaviors.</li>
+</ul></li>
+<li><p>Are files, variables, and functions named appropriately?</p></li>
+<li><p>Are file paths in the source code portable? Would running the code on another computer or operating system cause the paths to “break”?</p>
+<ul>
+<li>Relative file paths are preferred to absolute file paths. Ideally, paths are constructed using software tools that account for differences between operating system path delimiters.</li>
+</ul></li>
+<li><p>Are files referenced in the source code included in the submission?</p>
+<ul>
+<li>If not, the documentation should include instructions on obtaining the missing files.</li>
+</ul></li>
+<li><p>Is there a README and is it appropriately descriptive. Contents may include:</p>
+<ul>
+<li><p>Description: the code’s purpose and behavior, including any usage examples.</p></li>
+<li><p>Contributors: name, institutional affiliations, and contact</p></li>
+<li><p>Technical Requirements: notes on hardware and software dependencies</p></li>
+<li><p>Known Limitation &amp; Bugs</p></li>
+<li><p>License</p></li>
+<li><p>Preferred Citation</p></li>
+<li><p>Additional Acknowledgements</p></li>
+</ul></li>
+<li><p>Does the code include a license and is it appropriate?</p>
+<ul>
+<li>The code should be licensed with an open source software license, preferably a permissive one (Apache, BSD-3, MIT).</li>
+</ul></li>
+<li><p>Are files in the submission organized in a consistent and logical manner?</p>
+<ul>
+<li>The directory structure should help to differentiate, for example, source code files and data files.</li>
+</ul></li>
 </ul>
-</section>
-<section id="schedule" class="level3">
-<h3 class="anchored" data-anchor-id="schedule">Schedule</h3>
-<section id="day-1-may-12th" class="level4">
-<h4 class="anchored" data-anchor-id="day-1-may-12th">Day 1: May 12th</h4>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Time</th>
-<th style="text-align: left;">Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">9:00 AM</td>
-<td style="text-align: left;">Welcome and DCN background and Icebreaker</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">9:30 AM</td>
-<td style="text-align: left;">Code: Introduction and Overview</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">9:45 AM</td>
-<td style="text-align: left;">Computing platforms and programing languages</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">10:45 AM</td>
-<td style="text-align: left;">Break</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">11:00 PM</td>
-<td style="text-align: left;">Dependencies and Documentation</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">12:00 PM</td>
-<td style="text-align: left;">Lunch</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">1:00 PM</td>
-<td style="text-align: left;">Licensing and project structure</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">2:30 PM</td>
-<td style="text-align: left;">Capstone Introduction</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">2:45 PM</td>
-<td style="text-align: left;">Break</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">3:00 PM</td>
-<td style="text-align: left;">Simulation Data Introduction and Overview</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">4:00 PM</td>
-<td style="text-align: left;">End of Day 1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">6:00 PM</td>
-<td style="text-align: left;">Dine Arounds!</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="day-2-may-13th" class="level4">
-<h4 class="anchored" data-anchor-id="day-2-may-13th">Day 2: May 13th</h4>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Time</th>
-<th style="text-align: left;">Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">9:00 AM</td>
-<td style="text-align: left;">Welcome Back &amp; Recap from Day 1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">9:15 AM</td>
-<td style="text-align: left;">Introducing simulation datasets and key features</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">9:50 AM</td>
-<td style="text-align: left;">Break</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">10:05 AM</td>
-<td style="text-align: left;">Metadata and ethical considerations</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">10:50 AM</td>
-<td style="text-align: left;">Break</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">11:00 AM</td>
-<td style="text-align: left;">Data appraisal and transformations</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">12:00 PM</td>
-<td style="text-align: left;">Lunch</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">1:00 PM</td>
-<td style="text-align: left;">Capstone work time: brainstorm with teams</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">2:00 PM</td>
-<td style="text-align: left;">Capstone share out</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">2:30 PM</td>
-<td style="text-align: left;">Workshop wrap up</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">3:00 PM</td>
-<td style="text-align: left;">End</td>
-</tr>
-</tbody>
-</table>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

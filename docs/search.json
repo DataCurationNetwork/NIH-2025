@@ -7,6 +7,41 @@
     "text": "Note\n\n\n\nWorkshop participants should have received an email with login details for their workspace. The instructions below assume you are logged in to the website as described in the email.\n\n\nYour workspace is a virtual machine preloaded with the software and datasets we will use in the workshop. After logging in, you should see a single running workspace. Click the workspace on the list to use it.\n\n\n\nWorkspace list\n\n\nOn the workspace page, you will see several buttons: “File Browser”, “VS Code Web”, and “Terminal”.\n\n\n\nWorkspace page\n\n\nDuring the workshop, we will mostly use VS Code: this is a browser-based variant of the popular desktop IDE. Clicking “VS Code web” should open a new browser window running the application.\n\n\n\nVS Code startup\n\n\nWhen you first start, VS Code it will ask if “you trust the authors of the files in this folder?” (Don’t worry! You won’t be running any code on your personal computer– only on the workspace VM). Click “Yes, I trust the authors.”\n\n\n\nVS Code (empty)\n\n\nOn the left-hand side of the VS Code window you should see several folders with the datasets we will use in the workshop:\n\ncode-Adeodu_2024\ncode-Azzolin_2023\ncode-Lu_2020\nsim-Do_2020\nsim-Munoz_2020\nsim-Yang_2019\n\nIf you can see these folder, then you’re all set! If you can’t, please email the conference organizers (just reply to the email with your login details)."
   },
   {
+    "objectID": "codesim/code_checklist.html",
+    "href": "codesim/code_checklist.html",
+    "title": "Code Curation Checklist",
+    "section": "",
+    "text": "Code Curation Checklist\n\nAre source code files named appropriately, with an extension that matches the programming language?\nAre hardware and software dependencies adequately documented?\n\nThe hardware, operating system, and package versions used to run the code should be documented.\n\nDoes the documentation describe how to use the code?\n\nThe README should give an example of how to use the code, including expected outputs or behaviors.\n\nAre files, variables, and functions named appropriately?\nAre file paths in the source code portable? Would running the code on another computer or operating system cause the paths to “break”?\n\nRelative file paths are preferred to absolute file paths. Ideally, paths are constructed using software tools that account for differences between operating system path delimiters.\n\nAre files referenced in the source code included in the submission?\n\nIf not, the documentation should include instructions on obtaining the missing files.\n\nIs there a README and is it appropriately descriptive. Contents may include:\n\nDescription: the code’s purpose and behavior, including any usage examples.\nContributors: name, institutional affiliations, and contact\nTechnical Requirements: notes on hardware and software dependencies\nKnown Limitation & Bugs\nLicense\nPreferred Citation\nAdditional Acknowledgements\n\nDoes the code include a license and is it appropriate?\n\nThe code should be licensed with an open source software license, preferably a permissive one (Apache, BSD-3, MIT).\n\nAre files in the submission organized in a consistent and logical manner?\n\nThe directory structure should help to differentiate, for example, source code files and data files."
+  },
+  {
+    "objectID": "codesim/index.html",
+    "href": "codesim/index.html",
+    "title": "Code & Simulation Data",
+    "section": "",
+    "text": "The workshop will be held May 12-13, 2025 in Building 49 at the NIH Campus in Bethesda, MD.\n\nInstructors\n\nSeth Erickson (University of California, Santa Barbara)\nGreg Janée (University of California, Santa Barbara)\nWanda Marsolek (University of Minnesota)\nL. Wynholds (University of Utah)\n\n\n\nResources\n\n\n\n\n\n\nNote\n\n\n\nPlease review DCN’s CURATE(D) workflow before the first session.\n\n\n\nCode Slides\nSimulation Slides\nVirtual Workspace Instructions\nCapstone Google Drive Folder\nReferences\nNIH Campus Map\nCode Checklist\n\n\n\nSchedule\n\nDay 1: May 12th\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome and DCN background and Icebreaker\n\n\n9:30 AM\nCode: Introduction and Overview\n\n\n9:45 AM\nComputing platforms and programing languages\n\n\n10:45 AM\nBreak\n\n\n11:00 PM\nDependencies and Documentation\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nLicensing and project structure\n\n\n2:30 PM\nCapstone Introduction\n\n\n2:45 PM\nBreak\n\n\n3:00 PM\nSimulation Data Introduction and Overview\n\n\n4:00 PM\nEnd of Day 1\n\n\n6:00 PM\nDine Arounds!\n\n\n\n\n\nDay 2: May 13th\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome Back & Recap from Day 1\n\n\n9:15 AM\nIntroducing simulation datasets and key features\n\n\n9:50 AM\nBreak\n\n\n10:05 AM\nMetadata and ethical considerations\n\n\n10:50 AM\nBreak\n\n\n11:00 AM\nData appraisal and transformations\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nCapstone work time: brainstorm with teams\n\n\n2:00 PM\nCapstone share out\n\n\n2:30 PM\nWorkshop wrap up\n\n\n3:00 PM\nEnd"
+  },
+  {
+    "objectID": "scimgis/index.html",
+    "href": "scimgis/index.html",
+    "title": "Scientific Images & Geographic Information Systems (GIS)",
+    "section": "",
+    "text": "The workshop will be held July 14-15, 2025 in Building 10 at the NIH Campus in Bethesda, MD.\n\nInstructors\n\nNeggin Keshavarazian (Princeton University)\nAmy Schuler (Cary Institute of Ecosystem Studies)\nMariah Kenney (Carnegie Mellon University)\nKelly Grove (Florida State University)\nTim Norris (University of Miami)\n\n\n\nResources\n\n\n\n\n\n\nNote\n\n\n\nParticipants are encouraged to review DCN’s CURATE(D) workflow before the first session.\n\n\n\nPre-workshop preparation (to come)\nSlides (to come)\n\n\n\nSchedule\n\n\n\n\n\n\nWarning\n\n\n\nThe workshop schedule is still being developed and may change!\n\n\n\nDay 1: July 14th\n\n\n\n\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome and DCN background and Icebreaker\n\n\n9:30 AM\nIntroduction to GIS and geospatial Data Types\n\n\n10:30 AM\nBreak\n\n\n10:45 PM\nGIS Data Types (cont) and Ethical Considerations\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nGIS Transformations\n\n\n1:45 PM\nBreak\n\n\n2:00 PM\nGIS Metadata\n\n\n2:45 PM\nBreak\n\n\n3:00 PM\nGIS Metadata (cont) and Wrap Up\n\n\n4:00 PM\nEnd of Day 1\n\n\n6:00 - 7:30 PM\nDine Arounds!\n\n\n\n\n\nDay 2: July 15th\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome Back & Icebreaker\n\n\n9:15 AM\nIntroduction to Sci Images and Software\n\n\n10:30 AM\nBreak\n\n\n10:45 AM\nImage Metadata and Transformation\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nIntroduce capstone and datasets; brainstorm with teams\n\n\n2:15 PM\nBreak\n\n\n2:30 PM\nCapstone share out and Wrap Up\n\n\n3:00 PM\nEnd"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Specialized Data Curation Workshops @ NIH",
+    "section": "",
+    "text": "As part of the continuation of the IMLS funded project “Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas,” the Data Curation Network is partnering with the National Institutes of Health to offer a series of data curation workshops on specialized topics."
+  },
+  {
+    "objectID": "index.html#workshop-dates",
+    "href": "index.html#workshop-dates",
+    "title": "Specialized Data Curation Workshops @ NIH",
+    "section": "Workshop Dates",
+    "text": "Workshop Dates\n\nCode & Simulation Data, May 12-13, 2025\nScientific Images & Geographic Information Systems, July 14-15, 2025"
+  },
+  {
     "objectID": "codesim/handout-dependency_exercise.html",
     "href": "codesim/handout-dependency_exercise.html",
     "title": "Python Dependency Challenge",
@@ -40,34 +75,6 @@
     "title": "Python Dependency Challenge",
     "section": "",
     "text": "Workspace folder: code-Medo_2024\nFull Citation:\nMatúš Medo, Charlotte K. Y. Ng, Michaela Medová, A comprehensive comparison of tools for fitting mutational signatures, Nature Communications 15, 9467 (2024). URL: https://www.nature.com/articles/s41467-024-53711-6\nCode Repository: https://github.com/8medom/SigFitTest\nNote: This project also includes R code, which you ignore the purposes of the exercise.\nIdentify the missing dependencies:\n\n\n\npython\n3.12\n\n\n\n\nnumpy\n???\n\n\npython-dateutil\n2.9.0.post0\n\n\npytz\n2025.2\n\n\nsix\n1.17.0\n\n\ntzdata\n2025.2\n\n\n???\n???\n\n\n???\n???"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Specialized Data Curation Workshops @ NIH",
-    "section": "",
-    "text": "As part of the continuation of the IMLS funded project “Developing Specialized Data Curation Training to Address Needed Expertise in Focused Areas,” the Data Curation Network is partnering with the National Institutes of Health to offer a series of data curation workshops on specialized topics."
-  },
-  {
-    "objectID": "index.html#workshop-dates",
-    "href": "index.html#workshop-dates",
-    "title": "Specialized Data Curation Workshops @ NIH",
-    "section": "Workshop Dates",
-    "text": "Workshop Dates\n\nCode & Simulation Data, May 12-13, 2025\nScientific Images & Geographic Information Systems, July 14-15, 2025"
-  },
-  {
-    "objectID": "scimgis/index.html",
-    "href": "scimgis/index.html",
-    "title": "Scientific Images & Geographic Information Systems (GIS)",
-    "section": "",
-    "text": "The workshop will be held July 14-15, 2025 in Building 10 at the NIH Campus in Bethesda, MD.\n\nInstructors\n\nNeggin Keshavarazian (Princeton University)\nAmy Schuler (Cary Institute of Ecosystem Studies)\nMariah Kenney (Carnegie Mellon University)\nKelly Grove (Florida State University)\nTim Norris (University of Miami)\n\n\n\nResources\n\n\n\n\n\n\nNote\n\n\n\nParticipants are encouraged to review DCN’s CURATE(D) workflow before the first session.\n\n\n\nPre-workshop preparation (to come)\nSlides (to come)\n\n\n\nSchedule\n\n\n\n\n\n\nWarning\n\n\n\nThe workshop schedule is still being developed and may change!\n\n\n\nDay 1: July 14th\n\n\n\n\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome and DCN background and Icebreaker\n\n\n9:30 AM\nIntroduction to GIS and geospatial Data Types\n\n\n10:30 AM\nBreak\n\n\n10:45 PM\nGIS Data Types (cont) and Ethical Considerations\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nGIS Transformations\n\n\n1:45 PM\nBreak\n\n\n2:00 PM\nGIS Metadata\n\n\n2:45 PM\nBreak\n\n\n3:00 PM\nGIS Metadata (cont) and Wrap Up\n\n\n4:00 PM\nEnd of Day 1\n\n\n6:00 - 7:30 PM\nDine Arounds!\n\n\n\n\n\nDay 2: July 15th\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome Back & Icebreaker\n\n\n9:15 AM\nIntroduction to Sci Images and Software\n\n\n10:30 AM\nBreak\n\n\n10:45 AM\nImage Metadata and Transformation\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nIntroduce capstone and datasets; brainstorm with teams\n\n\n2:15 PM\nBreak\n\n\n2:30 PM\nCapstone share out and Wrap Up\n\n\n3:00 PM\nEnd"
-  },
-  {
-    "objectID": "codesim/index.html",
-    "href": "codesim/index.html",
-    "title": "Code & Simulation Data",
-    "section": "",
-    "text": "The workshop will be held May 12-13, 2025 in Building 49 at the NIH Campus in Bethesda, MD.\n\nInstructors\n\nSeth Erickson (University of California, Santa Barbara)\nGreg Janée (University of California, Santa Barbara)\nWanda Marsolek (University of Minnesota)\nL. Wynholds (University of Utah)\n\n\n\nResources\n\n\n\n\n\n\nNote\n\n\n\nPlease review DCN’s CURATE(D) workflow before the first session.\n\n\n\nCode Slides\nSimulation Slides\nVirtual Workspace Instructions\nCapstone Google Drive Folder\nReferences\nNIH Campus Map\n\n\n\nSchedule\n\nDay 1: May 12th\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome and DCN background and Icebreaker\n\n\n9:30 AM\nCode: Introduction and Overview\n\n\n9:45 AM\nComputing platforms and programing languages\n\n\n10:45 AM\nBreak\n\n\n11:00 PM\nDependencies and Documentation\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nLicensing and project structure\n\n\n2:30 PM\nCapstone Introduction\n\n\n2:45 PM\nBreak\n\n\n3:00 PM\nSimulation Data Introduction and Overview\n\n\n4:00 PM\nEnd of Day 1\n\n\n6:00 PM\nDine Arounds!\n\n\n\n\n\nDay 2: May 13th\n\n\n\nTime\nTopic\n\n\n\n\n9:00 AM\nWelcome Back & Recap from Day 1\n\n\n9:15 AM\nIntroducing simulation datasets and key features\n\n\n9:50 AM\nBreak\n\n\n10:05 AM\nMetadata and ethical considerations\n\n\n10:50 AM\nBreak\n\n\n11:00 AM\nData appraisal and transformations\n\n\n12:00 PM\nLunch\n\n\n1:00 PM\nCapstone work time: brainstorm with teams\n\n\n2:00 PM\nCapstone share out\n\n\n2:30 PM\nWorkshop wrap up\n\n\n3:00 PM\nEnd"
   },
   {
     "objectID": "codesim/references.html",

@@ -24,6 +24,7 @@ Please review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs
 - [Capstone Google Drive Folder](https://drive.google.com/drive/folders/1UzH6TllPLEKafA1wqgQTHoqE4CJI8dyc) 
 - [References](references.qmd)
 - [NIH Campus Map](https://ors.od.nih.gov/maps/Pages/NIH-Visitor-Map.aspx)
+- [Code Checklist](code_checklist.md)
 
 ### Schedule
 
