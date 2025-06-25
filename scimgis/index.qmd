@@ -21,9 +21,9 @@ Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacur
 
 - Pre-workshop preparation  
    - Download and install [QGIS](https://qgis.org/en/site/forusers/download.html).  
-   - Download the GIS dataset [Kramer et al 2019](https://doi.org/10.13020/znag-tn48).  
+   - Download the [1_Environment_Setup_Datasets.zip](https://drive.google.com/file/d/1JQF03Ekmpsvv4tICg6ELMISpPKBCZMXk) adapted from [Kramer et al 2019](https://doi.org/10.13020/znag-tn48).  
    - Please see the [01_Environmental_Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc) slide deck for more details (through slide 5).  
-   - If you fee adventerous, try to open any part of the dataset in QGIS.  
+   - If you feel adventerous, try to open any part of the setup dataset in QGIS.  
 - Slides  
    - GIS  
       - [01_Environmental Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc)  
@@ -32,6 +32,13 @@ Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacur
       - [04_Transofrmations](https://docs.google.com/presentation/d/1U2EcCLWHAbNbU1MsIKimqBSvlToA1b-pu2n6Vxymliw)  
       - [05_GIS_Metadata](https://docs.google.com/presentation/d/1mXO2UKkhrdpsVjPJl2U03b1NaXjVjGvRj_328PMqE8Q)  
    - Scientific Images (to come)
+- [GIS Cheatsheet](https://docs.google.com/document/d/16sQsM1abWYi8kbVriZ0Wnkpiyl8SBC9xrEwmT1RPSt0/edit?usp=sharing)  
+- Excercise GIS data sets  
+   - [01_Environment_Setup_Datasets.zip](https://drive.google.com/file/d/1JQF03Ekmpsvv4tICg6ELMISpPKBCZMXk)  
+   - [04_Bad_projection.zip](https://drive.google.com/file/d/1qj5qSn0G_mEKBgzo9Uh6tNF259KpUgO1)  
+   - [04_GIS_Transformations_Datasets.zip](https://drive.google.com/file/d/1ybdlW5GnR-z92dpgB_rzxPYpDIYWa_bL)  
+   - [04_study_area_cover_type.shp.xml](https://drive.google.com/file/d/1064vbrX3OxOTnGcRGi-vmk5GB2tWs3Qd)  
+   - [05_GIS_Dataset_No_ReadMe.zip](https://drive.google.com/file/d/1WhEbG3x3TX9yHlXOpKKQXq5caOhn562w)   
   
 ### Schedule
 
