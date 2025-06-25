@@ -19,9 +19,20 @@ The workshop will be held __July 14-15__, 2025 in Building 10 at the NIH Campus 
 Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
 :::
 
-- Pre-workshop preparation (to come)
-- Slides (to come)
-
+- Pre-workshop preparation  
+   - Download and install [QGIS](https://qgis.org/en/site/forusers/download.html).  
+   - Download the GIS dataset [Kramer et al 2019](https://doi.org/10.13020/znag-tn48).  
+   - Please see the [01_Environmental_Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc) slide deck for more details (through slide 5).  
+   - If you fee adventerous, try to open any part of the dataset in QGIS.  
+- Slides  
+   - GIS  
+      - [01_Environmental Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc)  
+      - [02_GIS_Introduction](https://docs.google.com/presentation/d/1HpBwxeyFS9VpQ1pNke5RQvk-X3n1NFZDkw7EUJtJCAI)  
+      - [03_Ethics_and_GIS_Data](https://docs.google.com/presentation/d/1PZHbiv3YSXpw9aqnn91zot9cErGpRHh28DKH4gSghwU)  
+      - [04_Transofrmations](https://docs.google.com/presentation/d/1U2EcCLWHAbNbU1MsIKimqBSvlToA1b-pu2n6Vxymliw)  
+      - [05_GIS_Metadata](https://docs.google.com/presentation/d/1mXO2UKkhrdpsVjPJl2U03b1NaXjVjGvRj_328PMqE8Q)  
+   - Scientific Images (to come)
+  
 ### Schedule
 
 ::: {.callout-warning}
