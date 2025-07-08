@@ -19,26 +19,37 @@ The workshop will be held __July 14-15__, 2025 in Building 10 at the NIH Campus 
 Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
 :::
 
-- Pre-workshop preparation  
-   - Download and install [QGIS](https://qgis.org/en/site/forusers/download.html).  
-   - Download the [1_Environment_Setup_Datasets.zip](https://drive.google.com/file/d/1JQF03Ekmpsvv4tICg6ELMISpPKBCZMXk) adapted from [Kramer et al 2019](https://doi.org/10.13020/znag-tn48).  
-   - Please see the [01_Environmental_Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc) slide deck for more details (through slide 5).  
-   - If you feel adventerous, try to open any part of the setup dataset in QGIS.  
-- Slides  
+- Pre-workshop preparation
+   - GIS  
+      - Download and install [QGIS](https://qgis.org/en/site/forusers/download.html).  
+      - Download the [1_Environment_Setup_Datasets.zip](https://drive.google.com/file/d/1JQF03Ekmpsvv4tICg6ELMISpPKBCZMXk) adapted from [Kramer et al 2019](https://doi.org/10.13020/znag-tn48).  
+      - Please see the [01_Environmental_Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc) slide deck for more details (through slide 5).  
+      - If you feel adventerous, try to open any part of the setup dataset in QGIS.  
+   - Scientific Images  
+      - Download and install [ImageJ](https://imagej.net/software/fiji/downloads) to be used to manipulate scientific images. Specifically we will use Fiji which is a distribution of ImageJ that includes additional useful plugins.
+         - Windows users are recommended to install in the users directory where it will have permissions to update itself.  
+         - Mac users - the software may run through Rosetta if you have a newer M-series processor, this can have some performance cost. Alternatively you can download a [java version](https://forum.image.sc/t/fiji-clij-etc-native-on-apple-silicon-arm64-m1/53627/25) which can run natively.  
+- [Shared Notes](https://docs.google.com/document/d/1EwEtSuCKFJzTM6ka3q--y8zz0mPL8GGMDLU3CqNk_oI/edit?tab=t.0) for the entire workshop  
+- Slides   
+   - [General Workshop Information](https://docs.google.com/presentation/d/1PB2Bue3XhVBzDO3nUQY6pUlJjRk4Bkq4RZCtsIu-clE/edit?slide=id.g34b2dc78b5b_0_129#slide=id.g34b2dc78b5b_0_129)  
    - GIS  
       - [01_Environmental Setup](https://docs.google.com/presentation/d/1X6JF22flHCWMmzyGbCh661tx573O2LYdHC4ig6yZguc)  
       - [02_GIS_Introduction](https://docs.google.com/presentation/d/1HpBwxeyFS9VpQ1pNke5RQvk-X3n1NFZDkw7EUJtJCAI)  
       - [03_Ethics_and_GIS_Data](https://docs.google.com/presentation/d/1PZHbiv3YSXpw9aqnn91zot9cErGpRHh28DKH4gSghwU)  
       - [04_Transofrmations](https://docs.google.com/presentation/d/1U2EcCLWHAbNbU1MsIKimqBSvlToA1b-pu2n6Vxymliw)  
       - [05_GIS_Metadata](https://docs.google.com/presentation/d/1mXO2UKkhrdpsVjPJl2U03b1NaXjVjGvRj_328PMqE8Q)  
-   - Scientific Images (to come)
+   - Scientific Images (to come)  
 - [GIS Cheatsheet](https://docs.google.com/document/d/16sQsM1abWYi8kbVriZ0Wnkpiyl8SBC9xrEwmT1RPSt0/edit?usp=sharing)  
-- Excercise GIS data sets  
-   - [01_Environment_Setup_Datasets.zip](https://drive.google.com/file/d/1JQF03Ekmpsvv4tICg6ELMISpPKBCZMXk)  
-   - [04_Bad_projection.zip](https://drive.google.com/file/d/1qj5qSn0G_mEKBgzo9Uh6tNF259KpUgO1)  
-   - [04_GIS_Transformations_Datasets.zip](https://drive.google.com/file/d/1ybdlW5GnR-z92dpgB_rzxPYpDIYWa_bL)  
-   - [04_study_area_cover_type.shp.xml](https://drive.google.com/file/d/1064vbrX3OxOTnGcRGi-vmk5GB2tWs3Qd)  
-   - [05_GIS_Dataset_No_ReadMe.zip](https://drive.google.com/file/d/1WhEbG3x3TX9yHlXOpKKQXq5caOhn562w)   
+- Excercise Data Sets  
+   Please download and unzip in an easy to find folder on your computer
+   - GIS
+      - [01_Environment_Setup_Datasets.zip](https://drive.google.com/file/d/1JQF03Ekmpsvv4tICg6ELMISpPKBCZMXk)  
+      - [04_Bad_projection.zip](https://drive.google.com/file/d/1qj5qSn0G_mEKBgzo9Uh6tNF259KpUgO1)  
+      - [04_GIS_Transformations_Datasets.zip](https://drive.google.com/file/d/1ybdlW5GnR-z92dpgB_rzxPYpDIYWa_bL)  
+      - [04_study_area_cover_type.shp.xml](https://drive.google.com/file/d/1064vbrX3OxOTnGcRGi-vmk5GB2tWs3Qd)  
+      - [05_GIS_Dataset_No_ReadMe.zip](https://drive.google.com/file/d/1WhEbG3x3TX9yHlXOpKKQXq5caOhn562w)   
+   - Scientific Images  
+      - [Dataset for 'Multi‑Step Crystallization of Self‑Organized Spiral Eutectics'](https://deepblue.lib.umich.edu/data/concern/data_sets/h415p962w)  
   
 ### Schedule
 
