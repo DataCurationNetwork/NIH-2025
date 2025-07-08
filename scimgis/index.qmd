@@ -10,7 +10,7 @@ The workshop will be held __July 14-15__, 2025 in Building 10 at the NIH Campus 
 - Amy Schuler (Cary Institute of Ecosystem Studies)
 - Mariah Kenney (Carnegie Mellon University)
 - Kelly Grove (Florida State University)
-- Tim Norris (University of Miami)
+- Timothy Norris (University of Miami)
 
 
 ### Resources
@@ -38,7 +38,7 @@ Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacur
       - [03_Ethics_and_GIS_Data](https://docs.google.com/presentation/d/1PZHbiv3YSXpw9aqnn91zot9cErGpRHh28DKH4gSghwU)  
       - [04_Transofrmations](https://docs.google.com/presentation/d/1U2EcCLWHAbNbU1MsIKimqBSvlToA1b-pu2n6Vxymliw)  
       - [05_GIS_Metadata](https://docs.google.com/presentation/d/1mXO2UKkhrdpsVjPJl2U03b1NaXjVjGvRj_328PMqE8Q)  
-   - Scientific Images (to come)  
+   - [Scientific Images](https://docs.google.com/presentation/d/1KNA0DLKbanLcohtYAPreSdejAWpAO1Pa_8-_HCFs45c/edit?slide=id.g2a520746ab6_0_2#slide=id.g2a520746ab6_0_2)  
 - [GIS Cheatsheet](https://docs.google.com/document/d/16sQsM1abWYi8kbVriZ0Wnkpiyl8SBC9xrEwmT1RPSt0/edit?usp=sharing)  
 - Excercise Data Sets  
    Please download and unzip in an easy to find folder on your computer
