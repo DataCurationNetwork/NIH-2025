@@ -2,7 +2,12 @@
 title: "Code & Simulation Data"
 ---
 
-The workshop will be held __May 12-13__, 2025 in Building 49 at the NIH Campus in Bethesda, MD.
+
+::: {.callout-note}
+Materials from this workshop are archived in the University of Minnesota's Digital Conservancy: [doi.org/10.24926/2025.276529](https://doi.org/10.24926/2025.276529).
+:::
+
+The workshop was held __May 12-13__, 2025 in Building 49 at the NIH Campus in Bethesda, MD.
 
 ### Instructors
 
@@ -14,12 +19,9 @@ The workshop will be held __May 12-13__, 2025 in Building 49 at the NIH Campus i
 
 ### Resources
 
-::: {.callout-note}
-Please review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs/workflows/) before the first session.
-:::
 
-- Code Slides
-- Simulation Slides
+- [Code Slides](https://conservancy.umn.edu/bitstreams/b6dbdb67-09f6-4cc6-996e-ae74fd6dde63/download)
+- [Simulation Slides](https://conservancy.umn.edu/bitstreams/22b4f5cb-d401-4394-bddb-c0b282e16758/download)
 - [Virtual Workspace Instructions](workspace.qmd)
 - [References](references.qmd)
 - [Code Checklist](code_checklist.md)
@@ -58,3 +60,8 @@ Please review [DCN's CURATE(D) workflow](https://datacurationnetwork.org/outputs
 | 2:00 PM  | Capstone share out                               |
 | 2:30 PM  | Workshop wrap up                                 |
 | 3:00 PM  | End                                              |
+
+
+### Suggested Citation
+
+Janée, Greg; Erickson, Seth; Wynholds, L.; Marsolek, Wanda. (2025). DCN-NIH Specialized Curation for Code and Simulations Workshop, 2025. Retrieved from the University Digital Conservancy, [https://doi.org/10.24926/2025.276529]().

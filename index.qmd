@@ -8,6 +8,15 @@ Areas](https://datacurationnetwork.org/expanding-curation-training/),” the Dat
 Curation Network is partnering with the National Institutes of Health to offer a
 series of data curation workshops on specialized topics.
 
+
+::: {.callout-note}
+All workshop materials are archived in the University of Minnesota's Digital Conservancy: 
+
+- Scientific Images & Geographic Information Systems: [doi.org/10.24926/2025.276521](https://doi.org/10.24926/2025.276521).
+- Code & Simulation Data: [doi.org/10.24926/2025.276529](https://doi.org/10.24926/2025.276529).
+:::
+
+
 ## Workshop Dates 
 
 - [__Code & Simulation Data__](codesim), May 12-13, 2025

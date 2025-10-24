@@ -2,7 +2,14 @@
 title: "Scientific Images & Geographic Information Systems (GIS)"
 ---
 
-The workshop will be held __July 14-15__, 2025 in Building 10 at the NIH Campus in Bethesda, MD.
+::: {.callout-note}
+
+Materials from this workshop are archived in the University of Minnesota's Digital Conservancy: [doi.org/10.24926/2025.276521](https://doi.org/10.24926/2025.276521)
+
+:::
+
+
+The workshop was held __July 14-15__, 2025 in Building 10 at the NIH Campus in Bethesda, MD.
 
 ### Instructors
 
@@ -30,15 +37,15 @@ Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacur
          - Windows users are recommended to install in the users directory where it will have permissions to update itself.  
          - Mac users - the software may run through Rosetta if you have a newer M-series processor, this can have some performance cost. Alternatively you can download a [java version](https://forum.image.sc/t/fiji-clij-etc-native-on-apple-silicon-arm64-m1/53627/25) which can run natively.  
 - Shared Notes for the entire workshop  
-- Slides   
+- Slides
    - General Workshop Information
-   - GIS  
+   - [GIS Slides](https://conservancy.umn.edu/bitstreams/52b31233-3b55-47e0-b0bb-25af3a00372e/download)   
       - 01_Environmental Setup
       - 02_GIS_Introduction
       - 03_Ethics_and_GIS_Data
       - 04_Transformations  
       - 05_GIS_Metadata  
-   - Scientific Images 
+   - [Scientific Images](https://conservancy.umn.edu/bitstreams/fae05631-8fe6-4185-9c94-e3020dfbab83/download)
 - GIS Cheatsheet
 - Exercise Data Sets  
    Please download and unzip in an easy to find folder on your computer
@@ -84,3 +91,7 @@ Participants are encouraged to review [DCN's CURATE(D) workflow](https://datacur
 | 2:30 PM  | Capstone share out and Wrap Up                         |
 | 3:00 PM  | End                                                    |
 
+
+### Suggested Citation
+
+Kenney, Mariah; Schuler, Amy; Keshavarzian, Neggin; Norris, Timothy; Grove, Kelly. (2025). DCN-NIH Specialized Curation for Geospatial and Scientific Images Workshop, 2025 . Retrieved from the University Digital Conservancy, [https://doi.org/10.24926/2025.276521]().
