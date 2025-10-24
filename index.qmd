@@ -21,3 +21,9 @@ All workshop materials are archived in the University of Minnesota's Digital Con
 
 - [__Code & Simulation Data__](codesim), May 12-13, 2025
 - [__Scientific Images & Geographic Information Systems__](scimgis), July 14-15, 2025
+
+## Acknowledgements
+
+These workshops were supported by the National Institutes of Health Data Management Center of Excellence (DMCOE) project “Expanding Data Curation Education” in partnership with MITRE and developed with support from the Institute for Museum and Library Services (IMLS) grant RE-252343-OLS-22.
+
+The Code/Simulation workshop used Jetstream2 resources at Indiana University, utilizing allocation OTH240004 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS) program, supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296

@@ -42,6 +42,13 @@
     "text": "Workshop Dates\n\nCode & Simulation Data, May 12-13, 2025\nScientific Images & Geographic Information Systems, July 14-15, 2025"
   },
   {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Specialized Data Curation Workshops @ NIH",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThese workshops were supported by the National Institutes of Health Data Management Center of Excellence (DMCOE) project “Expanding Data Curation Education” in partnership with MITRE and developed with support from the Institute for Museum and Library Services (IMLS) grant RE-252343-OLS-22.\nThe Code/Simulation workshop used Jetstream2 resources at Indiana University, utilizing allocation OTH240004 from the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS) program, supported by National Science Foundation grants #2138259, #2138286, #2138307, #2137603, and #2138296"
+  },
+  {
     "objectID": "codesim/handout-dependency_exercise.html",
     "href": "codesim/handout-dependency_exercise.html",
     "title": "Python Dependency Challenge",
